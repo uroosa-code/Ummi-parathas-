@@ -1,1 +1,2 @@
-cd path/to/ummi-parathas-react
+npm install
+npm start
